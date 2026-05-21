@@ -1,0 +1,4 @@
+pymupdf==1.27.2.3
+beautifulsoup4==4.14.3
+requests==2.34.2
+seaborn==0.13.2

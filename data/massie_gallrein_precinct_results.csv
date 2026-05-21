@@ -1,0 +1,413 @@
+pdf_file,page_number,county,precinct,source_format,massie_absentee_mail_in,massie_absentee_walk_in,massie_early_voting,massie_election_day_voting,massie_total,gallrein_absentee_mail_in,gallrein_absentee_walk_in,gallrein_early_voting,gallrein_election_day_voting,gallrein_total
+data\precinct_pdfs\precinct_10.pdf,1,Boone County,A102,vote_type_breakdown,2,0,14,65,81,4,1,8,115,128
+data\precinct_pdfs\precinct_10.pdf,3,Boone County,A103,vote_type_breakdown,6,6,28,184,224,9,7,26,207,249
+data\precinct_pdfs\precinct_10.pdf,5,Boone County,A104,vote_type_breakdown,5,6,32,151,194,7,6,44,212,269
+data\precinct_pdfs\precinct_10.pdf,7,Boone County,A105,vote_type_breakdown,4,6,15,116,141,0,11,10,152,173
+data\precinct_pdfs\precinct_10.pdf,9,Boone County,A106,vote_type_breakdown,1,1,5,78,85,1,0,5,110,116
+data\precinct_pdfs\precinct_10.pdf,11,Boone County,A107,vote_type_breakdown,1,1,4,41,47,2,0,2,53,57
+data\precinct_pdfs\precinct_10.pdf,14,Boone County,A108,vote_type_breakdown,1,1,15,111,128,7,2,21,152,182
+data\precinct_pdfs\precinct_10.pdf,16,Boone County,A109,vote_type_breakdown,8,2,8,126,144,0,2,12,151,165
+data\precinct_pdfs\precinct_10.pdf,18,Boone County,A110,vote_type_breakdown,5,2,10,113,130,4,0,8,142,154
+data\precinct_pdfs\precinct_10.pdf,20,Boone County,A111,vote_type_breakdown,1,3,4,91,99,9,6,27,150,192
+data\precinct_pdfs\precinct_10.pdf,22,Boone County,A112,vote_type_breakdown,1,1,13,77,92,5,3,15,110,133
+data\precinct_pdfs\precinct_10.pdf,24,Boone County,A113,vote_type_breakdown,2,2,19,90,113,6,3,31,147,187
+data\precinct_pdfs\precinct_10.pdf,26,Boone County,A114,vote_type_breakdown,13,7,37,238,295,14,3,41,286,344
+data\precinct_pdfs\precinct_10.pdf,28,Boone County,A115,vote_type_breakdown,8,1,12,127,148,10,1,21,196,228
+data\precinct_pdfs\precinct_10.pdf,30,Boone County,A116,vote_type_breakdown,0,4,12,77,93,3,2,19,100,124
+data\precinct_pdfs\precinct_10.pdf,32,Boone County,A117,vote_type_breakdown,2,6,19,265,292,12,1,22,296,331
+data\precinct_pdfs\precinct_10.pdf,34,Boone County,A118,vote_type_breakdown,7,4,12,207,230,5,1,23,164,193
+data\precinct_pdfs\precinct_10.pdf,36,Boone County,A119,vote_type_breakdown,3,0,3,14,20,1,1,12,78,92
+data\precinct_pdfs\precinct_10.pdf,39,Boone County,A120,vote_type_breakdown,3,2,25,196,226,13,3,35,227,278
+data\precinct_pdfs\precinct_10.pdf,41,Boone County,A121,vote_type_breakdown,5,2,20,272,299,5,8,23,278,314
+data\precinct_pdfs\precinct_10.pdf,43,Boone County,A122,vote_type_breakdown,0,3,5,90,98,1,2,14,127,144
+data\precinct_pdfs\precinct_10.pdf,45,Boone County,A123,vote_type_breakdown,2,4,15,138,159,0,4,13,175,192
+data\precinct_pdfs\precinct_10.pdf,47,Boone County,B114,vote_type_breakdown,1,3,5,147,156,5,1,5,148,159
+data\precinct_pdfs\precinct_10.pdf,50,Boone County,B115,vote_type_breakdown,1,4,6,61,72,4,1,16,84,105
+data\precinct_pdfs\precinct_10.pdf,53,Boone County,B118,vote_type_breakdown,0,0,3,64,67,5,0,10,99,114
+data\precinct_pdfs\precinct_10.pdf,56,Boone County,B120,vote_type_breakdown,4,3,17,96,120,1,1,21,129,152
+data\precinct_pdfs\precinct_10.pdf,59,Boone County,B121,vote_type_breakdown,11,0,22,327,360,15,2,31,274,322
+data\precinct_pdfs\precinct_10.pdf,62,Boone County,B122,vote_type_breakdown,11,6,10,286,313,14,3,15,296,328
+data\precinct_pdfs\precinct_10.pdf,65,Boone County,B123,vote_type_breakdown,9,3,20,239,271,14,8,35,333,390
+data\precinct_pdfs\precinct_10.pdf,68,Boone County,B124,vote_type_breakdown,0,1,9,124,134,5,1,6,128,140
+data\precinct_pdfs\precinct_10.pdf,71,Boone County,B125,vote_type_breakdown,2,0,13,131,146,5,2,5,132,144
+data\precinct_pdfs\precinct_10.pdf,74,Boone County,B126,vote_type_breakdown,1,0,21,265,287,6,5,18,264,293
+data\precinct_pdfs\precinct_10.pdf,77,Boone County,B127,vote_type_breakdown,3,0,6,182,191,8,1,8,142,159
+data\precinct_pdfs\precinct_10.pdf,80,Boone County,B128,vote_type_breakdown,1,0,7,163,171,0,1,9,160,170
+data\precinct_pdfs\precinct_10.pdf,83,Boone County,B129,vote_type_breakdown,4,2,23,225,254,6,1,17,220,244
+data\precinct_pdfs\precinct_10.pdf,86,Boone County,B130,vote_type_breakdown,10,3,20,148,181,17,6,22,202,247
+data\precinct_pdfs\precinct_10.pdf,89,Boone County,B131,vote_type_breakdown,4,2,32,153,191,5,6,28,132,171
+data\precinct_pdfs\precinct_10.pdf,92,Boone County,B132,vote_type_breakdown,5,3,30,181,219,3,3,19,215,240
+data\precinct_pdfs\precinct_10.pdf,95,Boone County,B133,vote_type_breakdown,7,6,30,163,206,6,2,23,198,229
+data\precinct_pdfs\precinct_10.pdf,98,Boone County,B134,vote_type_breakdown,6,6,10,100,122,7,1,17,187,212
+data\precinct_pdfs\precinct_10.pdf,101,Boone County,B135,vote_type_breakdown,0,7,27,268,302,23,5,20,280,328
+data\precinct_pdfs\precinct_10.pdf,104,Boone County,B136,vote_type_breakdown,1,0,4,83,88,0,0,7,77,84
+data\precinct_pdfs\precinct_10.pdf,107,Boone County,C102,vote_type_breakdown,6,0,13,104,123,9,3,26,132,170
+data\precinct_pdfs\precinct_10.pdf,109,Boone County,C110,vote_type_breakdown,7,0,7,56,70,7,0,11,119,137
+data\precinct_pdfs\precinct_10.pdf,111,Boone County,C116,vote_type_breakdown,0,0,6,63,69,0,1,14,117,132
+data\precinct_pdfs\precinct_10.pdf,114,Boone County,C117,vote_type_breakdown,5,1,13,113,132,7,2,10,144,163
+data\precinct_pdfs\precinct_10.pdf,116,Boone County,C118,vote_type_breakdown,5,0,20,162,187,6,4,26,179,215
+data\precinct_pdfs\precinct_10.pdf,118,Boone County,C119,vote_type_breakdown,1,0,11,51,63,1,2,32,85,120
+data\precinct_pdfs\precinct_10.pdf,121,Boone County,C121,vote_type_breakdown,2,0,7,44,53,3,3,13,66,85
+data\precinct_pdfs\precinct_10.pdf,123,Boone County,C123,vote_type_breakdown,0,0,3,42,45,1,1,1,38,41
+data\precinct_pdfs\precinct_10.pdf,126,Boone County,C124,vote_type_breakdown,1,2,2,35,40,6,0,16,71,93
+data\precinct_pdfs\precinct_10.pdf,129,Boone County,C125,vote_type_breakdown,0,2,1,37,40,4,0,3,60,67
+data\precinct_pdfs\precinct_10.pdf,132,Boone County,C126,vote_type_breakdown,1,0,1,17,19,2,0,0,21,23
+data\precinct_pdfs\precinct_10.pdf,135,Boone County,C127,vote_type_breakdown,1,1,5,47,54,2,0,9,79,90
+data\precinct_pdfs\precinct_10.pdf,138,Boone County,C128,vote_type_breakdown,3,0,9,38,50,0,0,0,62,62
+data\precinct_pdfs\precinct_10.pdf,141,Boone County,C129,vote_type_breakdown,1,0,1,61,63,3,1,4,80,88
+data\precinct_pdfs\precinct_10.pdf,144,Boone County,C130,vote_type_breakdown,4,5,4,68,81,8,2,8,94,112
+data\precinct_pdfs\precinct_10.pdf,147,Boone County,C131,vote_type_breakdown,3,1,5,66,75,3,2,3,60,68
+data\precinct_pdfs\precinct_10.pdf,150,Boone County,C132,vote_type_breakdown,2,0,11,55,68,3,0,8,68,79
+data\precinct_pdfs\precinct_10.pdf,153,Boone County,C133,vote_type_breakdown,1,0,2,31,34,0,1,2,49,52
+data\precinct_pdfs\precinct_10.pdf,155,Boone County,C134,vote_type_breakdown,9,3,12,188,212,10,0,18,234,262
+data\precinct_pdfs\precinct_10.pdf,157,Boone County,C135,vote_type_breakdown,1,0,7,65,73,4,1,9,97,111
+data\precinct_pdfs\precinct_10.pdf,160,Boone County,C136,vote_type_breakdown,1,5,6,65,77,4,2,5,78,89
+data\precinct_pdfs\precinct_10.pdf,162,Boone County,C137,vote_type_breakdown,5,3,9,128,145,10,4,23,175,212
+data\precinct_pdfs\precinct_14.pdf,1,Bracken County,A101,vote_type_breakdown,0,20,0,59,79,3,24,0,79,106
+data\precinct_pdfs\precinct_14.pdf,5,Bracken County,B101,vote_type_breakdown,0,8,0,32,40,4,20,0,56,80
+data\precinct_pdfs\precinct_14.pdf,9,Bracken County,C101,vote_type_breakdown,2,9,0,50,61,4,11,0,49,64
+data\precinct_pdfs\precinct_14.pdf,14,Bracken County,D101,vote_type_breakdown,1,31,0,61,93,1,28,0,70,99
+data\precinct_pdfs\precinct_14.pdf,18,Bracken County,E101,vote_type_breakdown,1,8,0,46,55,5,12,0,67,84
+data\precinct_pdfs\precinct_14.pdf,22,Bracken County,F101,vote_type_breakdown,2,16,0,57,75,5,26,0,52,83
+data\precinct_pdfs\precinct_14.pdf,26,Bracken County,G101,vote_type_breakdown,0,20,0,42,62,1,18,0,56,75
+data\precinct_pdfs\precinct_14.pdf,30,Bracken County,H101,vote_type_breakdown,0,5,0,40,45,1,4,0,61,66
+data\precinct_pdfs\precinct_21.pdf,1,Campbell County,A801,vote_type_breakdown,0,1,11,126,138,5,1,17,142,165
+data\precinct_pdfs\precinct_21.pdf,5,Campbell County,A802,vote_type_breakdown,1,2,4,72,79,4,2,17,103,126
+data\precinct_pdfs\precinct_21.pdf,9,Campbell County,B803,vote_type_breakdown,4,0,37,201,242,15,3,56,234,308
+data\precinct_pdfs\precinct_21.pdf,13,Campbell County,A804,vote_type_breakdown,3,0,24,226,253,4,2,24,283,313
+data\precinct_pdfs\precinct_21.pdf,17,Campbell County,B806,vote_type_breakdown,0,3,26,204,233,1,0,37,175,213
+data\precinct_pdfs\precinct_21.pdf,21,Campbell County,B807,vote_type_breakdown,1,0,8,85,94,2,0,14,135,151
+data\precinct_pdfs\precinct_21.pdf,25,Campbell County,C201,vote_type_breakdown,2,0,5,59,66,3,0,3,85,91
+data\precinct_pdfs\precinct_21.pdf,29,Campbell County,C202,vote_type_breakdown,0,0,4,48,52,1,0,0,56,57
+data\precinct_pdfs\precinct_21.pdf,33,Campbell County,C203,vote_type_breakdown,0,2,11,95,108,2,0,6,100,108
+data\precinct_pdfs\precinct_21.pdf,37,Campbell County,A906,vote_type_breakdown,1,1,12,115,129,3,0,15,124,142
+data\precinct_pdfs\precinct_21.pdf,41,Campbell County,B905,vote_type_breakdown,2,0,19,171,192,2,0,41,228,271
+data\precinct_pdfs\precinct_21.pdf,45,Campbell County,A701,vote_type_breakdown,0,1,19,91,111,1,0,12,79,92
+data\precinct_pdfs\precinct_21.pdf,49,Campbell County,A702,vote_type_breakdown,1,0,20,130,151,2,0,16,98,116
+data\precinct_pdfs\precinct_21.pdf,53,Campbell County,B703,vote_type_breakdown,8,0,33,106,147,13,1,30,101,145
+data\precinct_pdfs\precinct_21.pdf,57,Campbell County,B704,vote_type_breakdown,5,0,16,117,138,6,2,33,134,175
+data\precinct_pdfs\precinct_21.pdf,61,Campbell County,A705,vote_type_breakdown,2,3,20,67,92,0,0,13,85,98
+data\precinct_pdfs\precinct_21.pdf,65,Campbell County,B706,vote_type_breakdown,4,1,38,168,211,11,2,68,219,300
+data\precinct_pdfs\precinct_21.pdf,69,Campbell County,C101,vote_type_breakdown,1,0,12,75,88,4,0,3,115,122
+data\precinct_pdfs\precinct_21.pdf,73,Campbell County,C102,vote_type_breakdown,0,4,3,87,94,1,0,2,83,86
+data\precinct_pdfs\precinct_21.pdf,77,Campbell County,C401,vote_type_breakdown,0,0,19,142,161,1,2,16,121,140
+data\precinct_pdfs\precinct_21.pdf,82,Campbell County,A402,vote_type_breakdown,5,11,31,252,299,3,4,18,242,267
+data\precinct_pdfs\precinct_21.pdf,87,Campbell County,A405,vote_type_breakdown,3,3,19,231,256,3,3,18,199,223
+data\precinct_pdfs\precinct_21.pdf,92,Campbell County,A415,vote_type_breakdown,0,0,4,27,31,0,0,2,25,27
+data\precinct_pdfs\precinct_21.pdf,97,Campbell County,C416,vote_type_breakdown,1,3,11,56,71,3,0,22,59,84
+data\precinct_pdfs\precinct_21.pdf,102,Campbell County,A409,vote_type_breakdown,0,0,7,114,121,1,0,2,75,78
+data\precinct_pdfs\precinct_21.pdf,107,Campbell County,A410,vote_type_breakdown,3,2,9,218,232,7,2,12,166,187
+data\precinct_pdfs\precinct_21.pdf,112,Campbell County,A412,vote_type_breakdown,0,0,10,126,136,2,1,9,118,130
+data\precinct_pdfs\precinct_21.pdf,117,Campbell County,A418,vote_type_breakdown,1,1,14,147,163,0,2,10,113,125
+data\precinct_pdfs\precinct_21.pdf,122,Campbell County,A419,vote_type_breakdown,4,0,10,43,57,4,1,4,50,59
+data\precinct_pdfs\precinct_21.pdf,127,Campbell County,B904,vote_type_breakdown,2,0,28,215,245,3,1,35,272,311
+data\precinct_pdfs\precinct_21.pdf,131,Campbell County,A601,vote_type_breakdown,0,0,11,42,53,0,0,3,30,33
+data\precinct_pdfs\precinct_21.pdf,135,Campbell County,B602,vote_type_breakdown,0,2,10,56,68,0,2,4,57,63
+data\precinct_pdfs\precinct_21.pdf,139,Campbell County,B603,vote_type_breakdown,1,0,0,41,42,3,0,4,31,38
+data\precinct_pdfs\precinct_21.pdf,143,Campbell County,B604,vote_type_breakdown,2,1,20,87,110,5,1,17,105,128
+data\precinct_pdfs\precinct_21.pdf,147,Campbell County,A907,vote_type_breakdown,1,1,17,141,160,2,3,15,181,201
+data\precinct_pdfs\precinct_21.pdf,151,Campbell County,B901,vote_type_breakdown,3,1,12,190,206,1,0,26,210,237
+data\precinct_pdfs\precinct_21.pdf,155,Campbell County,C301,vote_type_breakdown,1,3,10,53,67,1,0,3,44,48
+data\precinct_pdfs\precinct_21.pdf,159,Campbell County,C302,vote_type_breakdown,1,1,9,62,73,2,2,9,83,96
+data\precinct_pdfs\precinct_21.pdf,163,Campbell County,C303,vote_type_breakdown,3,0,8,44,55,5,3,3,56,67
+data\precinct_pdfs\precinct_21.pdf,167,Campbell County,C307,vote_type_breakdown,1,0,12,94,107,5,2,33,126,166
+data\precinct_pdfs\precinct_21.pdf,171,Campbell County,C308,vote_type_breakdown,1,3,2,32,38,1,2,3,53,59
+data\precinct_pdfs\precinct_21.pdf,175,Campbell County,C501,vote_type_breakdown,1,2,3,100,106,0,1,16,87,104
+data\precinct_pdfs\precinct_21.pdf,180,Campbell County,C503,vote_type_breakdown,0,0,10,46,56,1,0,11,40,52
+data\precinct_pdfs\precinct_21.pdf,184,Campbell County,C504,vote_type_breakdown,0,1,0,24,25,1,0,4,26,31
+data\precinct_pdfs\precinct_21.pdf,188,Campbell County,B903,vote_type_breakdown,1,0,29,221,251,1,0,39,269,309
+data\precinct_pdfs\precinct_21.pdf,192,Campbell County,B909,vote_type_breakdown,5,2,22,147,176,4,4,30,204,242
+data\precinct_pdfs\precinct_23.pdf,1,Carroll County,A101,vote_type_breakdown,3,0,37,99,139,3,3,55,135,196
+data\precinct_pdfs\precinct_23.pdf,5,Carroll County,B102,vote_type_breakdown,2,2,17,71,92,3,0,28,87,118
+data\precinct_pdfs\precinct_23.pdf,8,Carroll County,C103,vote_type_breakdown,4,6,44,127,181,5,3,69,166,243
+data\precinct_pdfs\precinct_24.pdf,7,Carter County,A103,vote_type_breakdown,0,0,2,21,23,2,0,8,30,40
+data\precinct_pdfs\precinct_24.pdf,58,Carter County,E102,vote_type_breakdown,1,0,7,32,40,1,0,2,75,78
+data\precinct_pdfs\precinct_24.pdf,64,Carter County,E104,vote_type_breakdown,0,0,4,12,16,0,0,9,35,44
+data\precinct_pdfs\precinct_24.pdf,67,Carter County,E105,vote_type_breakdown,0,0,7,30,37,2,0,4,46,52
+data\precinct_pdfs\precinct_41.pdf,1,Gallatin County,A101,vote_type_breakdown,1,0,5,20,26,0,0,17,47,64
+data\precinct_pdfs\precinct_41.pdf,4,Gallatin County,A102,vote_type_breakdown,6,0,5,18,29,2,0,9,39,50
+data\precinct_pdfs\precinct_41.pdf,7,Gallatin County,B101,vote_type_breakdown,0,0,6,41,47,0,0,6,70,76
+data\precinct_pdfs\precinct_41.pdf,10,Gallatin County,B102,vote_type_breakdown,0,0,5,50,55,1,2,2,56,61
+data\precinct_pdfs\precinct_41.pdf,13,Gallatin County,C101,vote_type_breakdown,0,0,3,57,60,0,0,8,86,94
+data\precinct_pdfs\precinct_41.pdf,16,Gallatin County,C102,vote_type_breakdown,0,0,6,61,67,0,0,10,92,102
+data\precinct_pdfs\precinct_41.pdf,19,Gallatin County,D101,vote_type_breakdown,0,0,7,55,62,0,0,11,72,83
+data\precinct_pdfs\precinct_41.pdf,22,Gallatin County,D102,vote_type_breakdown,0,0,10,74,84,0,5,17,111,133
+data\precinct_pdfs\precinct_43.pdf,1,Grant County,A101,vote_type_breakdown,4,6,64,384,458,8,6,126,614,754
+data\precinct_pdfs\precinct_43.pdf,5,Grant County,B102,vote_type_breakdown,3,4,59,379,445,6,2,113,594,715
+data\precinct_pdfs\precinct_43.pdf,9,Grant County,C103,vote_type_breakdown,6,3,42,386,437,16,6,66,576,664
+data\precinct_pdfs\precinct_47.pdf,1,Greenup County,A101,vote_type_breakdown,0,2,2,52,56,1,3,8,82,94
+data\precinct_pdfs\precinct_47.pdf,4,Greenup County,A102,vote_type_breakdown,2,0,2,48,52,1,0,7,69,77
+data\precinct_pdfs\precinct_47.pdf,7,Greenup County,A103,vote_type_breakdown,1,0,2,36,39,4,1,9,79,93
+data\precinct_pdfs\precinct_47.pdf,10,Greenup County,A104,vote_type_breakdown,0,0,0,43,43,0,1,11,80,92
+data\precinct_pdfs\precinct_47.pdf,13,Greenup County,A105,vote_type_breakdown,1,0,0,28,29,0,2,2,39,43
+data\precinct_pdfs\precinct_47.pdf,16,Greenup County,A106,vote_type_breakdown,1,5,2,38,46,0,3,9,44,56
+data\precinct_pdfs\precinct_47.pdf,19,Greenup County,A107,vote_type_breakdown,0,1,8,42,51,2,4,4,68,78
+data\precinct_pdfs\precinct_47.pdf,22,Greenup County,A108,vote_type_breakdown,0,0,1,18,19,0,0,1,39,40
+data\precinct_pdfs\precinct_47.pdf,25,Greenup County,A109,vote_type_breakdown,5,0,1,118,124,4,4,9,129,146
+data\precinct_pdfs\precinct_47.pdf,28,Greenup County,A110,vote_type_breakdown,1,3,1,63,68,1,4,4,114,123
+data\precinct_pdfs\precinct_47.pdf,31,Greenup County,B101,vote_type_breakdown,1,0,1,45,47,3,1,2,63,69
+data\precinct_pdfs\precinct_47.pdf,34,Greenup County,B102,vote_type_breakdown,0,0,0,48,48,1,0,0,62,63
+data\precinct_pdfs\precinct_47.pdf,38,Greenup County,B103,vote_type_breakdown,2,4,4,71,81,0,3,9,82,94
+data\precinct_pdfs\precinct_47.pdf,41,Greenup County,B104,vote_type_breakdown,0,2,3,37,42,1,0,3,71,75
+data\precinct_pdfs\precinct_47.pdf,44,Greenup County,B105,vote_type_breakdown,2,0,4,66,72,3,1,2,93,99
+data\precinct_pdfs\precinct_47.pdf,47,Greenup County,B107,vote_type_breakdown,0,4,4,61,69,1,2,5,61,69
+data\precinct_pdfs\precinct_47.pdf,50,Greenup County,B108,vote_type_breakdown,1,5,9,66,81,1,4,10,104,119
+data\precinct_pdfs\precinct_47.pdf,53,Greenup County,B110,vote_type_breakdown,2,3,8,53,66,1,1,3,46,51
+data\precinct_pdfs\precinct_47.pdf,56,Greenup County,B111,vote_type_breakdown,2,9,7,53,71,2,2,6,110,120
+data\precinct_pdfs\precinct_47.pdf,59,Greenup County,C101,vote_type_breakdown,4,4,1,74,83,3,0,4,79,86
+data\precinct_pdfs\precinct_47.pdf,62,Greenup County,C102,vote_type_breakdown,2,0,1,41,44,0,1,6,133,140
+data\precinct_pdfs\precinct_47.pdf,65,Greenup County,C103,vote_type_breakdown,1,2,1,31,35,3,0,2,58,63
+data\precinct_pdfs\precinct_47.pdf,68,Greenup County,C104,vote_type_breakdown,3,0,8,46,57,0,3,6,85,94
+data\precinct_pdfs\precinct_47.pdf,71,Greenup County,C105,vote_type_breakdown,1,0,0,59,60,4,3,9,103,119
+data\precinct_pdfs\precinct_47.pdf,74,Greenup County,C106,vote_type_breakdown,2,0,3,41,46,1,4,1,88,94
+data\precinct_pdfs\precinct_47.pdf,77,Greenup County,C107,vote_type_breakdown,0,0,2,20,22,4,0,3,62,69
+data\precinct_pdfs\precinct_47.pdf,80,Greenup County,C108,vote_type_breakdown,0,4,4,91,99,0,0,2,83,85
+data\precinct_pdfs\precinct_47.pdf,83,Greenup County,C109,vote_type_breakdown,1,0,2,59,62,2,0,1,55,58
+data\precinct_pdfs\precinct_47.pdf,86,Greenup County,C110,vote_type_breakdown,0,2,6,48,56,0,2,1,71,74
+data\precinct_pdfs\precinct_51.pdf,1,Harrison County,A101,vote_type_breakdown,0,0,7,25,32,1,2,10,38,51
+data\precinct_pdfs\precinct_51.pdf,4,Harrison County,A102,vote_type_breakdown,1,0,3,13,17,0,0,0,28,28
+data\precinct_pdfs\precinct_51.pdf,7,Harrison County,A103,vote_type_breakdown,0,0,2,3,5,0,0,1,1,2
+data\precinct_pdfs\precinct_51.pdf,10,Harrison County,B101,vote_type_breakdown,0,0,9,34,43,1,1,6,51,59
+data\precinct_pdfs\precinct_51.pdf,13,Harrison County,B102,vote_type_breakdown,1,0,6,16,23,1,0,1,17,19
+data\precinct_pdfs\precinct_51.pdf,16,Harrison County,B103,vote_type_breakdown,0,0,0,0,0,0,0,0,0,0
+data\precinct_pdfs\precinct_51.pdf,19,Harrison County,C101,vote_type_breakdown,1,1,9,60,71,3,0,9,91,103
+data\precinct_pdfs\precinct_51.pdf,22,Harrison County,C102,vote_type_breakdown,1,0,11,62,74,1,0,18,74,93
+data\precinct_pdfs\precinct_51.pdf,25,Harrison County,D101,vote_type_breakdown,0,0,11,42,53,0,3,11,56,70
+data\precinct_pdfs\precinct_51.pdf,28,Harrison County,D102,vote_type_breakdown,1,3,16,69,89,0,0,21,61,82
+data\precinct_pdfs\precinct_51.pdf,31,Harrison County,E101,vote_type_breakdown,2,2,1,32,37,0,0,4,49,53
+data\precinct_pdfs\precinct_51.pdf,34,Harrison County,E102,vote_type_breakdown,0,0,13,47,60,2,0,21,59,82
+data\precinct_pdfs\precinct_51.pdf,37,Harrison County,F101,vote_type_breakdown,2,0,17,60,79,2,0,16,68,86
+data\precinct_pdfs\precinct_51.pdf,40,Harrison County,F102,vote_type_breakdown,1,0,20,49,70,0,0,9,89,98
+data\precinct_pdfs\precinct_51.pdf,43,Harrison County,G101,vote_type_breakdown,0,0,11,53,64,1,0,15,86,102
+data\precinct_pdfs\precinct_51.pdf,47,Harrison County,G102,vote_type_breakdown,2,0,5,36,43,1,0,14,52,67
+data\precinct_pdfs\precinct_51.pdf,51,Harrison County,H101,vote_type_breakdown,1,1,10,70,82,2,2,16,77,97
+data\precinct_pdfs\precinct_51.pdf,54,Harrison County,H102,vote_type_breakdown,0,0,8,48,56,1,1,7,58,67
+data\precinct_pdfs\precinct_54.pdf,1,Henry County,A101,vote_type_breakdown,1,0,16,90,107,2,2,17,114,135
+data\precinct_pdfs\precinct_54.pdf,5,Henry County,A102,vote_type_breakdown,0,0,7,22,29,0,0,4,40,44
+data\precinct_pdfs\precinct_54.pdf,9,Henry County,B101,vote_type_breakdown,1,0,12,100,113,4,2,22,144,172
+data\precinct_pdfs\precinct_54.pdf,13,Henry County,B102,vote_type_breakdown,0,0,10,81,91,0,0,17,160,177
+data\precinct_pdfs\precinct_54.pdf,17,Henry County,C101,vote_type_breakdown,0,2,14,112,128,2,0,18,120,140
+data\precinct_pdfs\precinct_54.pdf,20,Henry County,C102,vote_type_breakdown,0,2,1,34,37,1,1,2,19,23
+data\precinct_pdfs\precinct_54.pdf,23,Henry County,D101,vote_type_breakdown,2,1,26,76,105,1,0,34,118,153
+data\precinct_pdfs\precinct_54.pdf,26,Henry County,D102,vote_type_breakdown,1,1,22,44,68,1,9,17,53,80
+data\precinct_pdfs\precinct_54.pdf,29,Henry County,E101,vote_type_breakdown,0,0,0,33,33,0,0,11,50,61
+data\precinct_pdfs\precinct_54.pdf,32,Henry County,E102,vote_type_breakdown,0,1,7,34,42,0,0,7,38,45
+data\precinct_pdfs\precinct_54.pdf,35,Henry County,E103,vote_type_breakdown,0,0,8,39,47,0,0,7,46,53
+data\precinct_pdfs\precinct_54.pdf,38,Henry County,E104,vote_type_breakdown,1,0,3,15,19,0,0,11,30,41
+data\precinct_pdfs\precinct_54.pdf,41,Henry County,E105,vote_type_breakdown,0,0,4,8,12,0,0,5,10,15
+data\precinct_pdfs\precinct_54.pdf,44,Henry County,F101,vote_type_breakdown,0,0,7,32,39,2,0,17,49,68
+data\precinct_pdfs\precinct_54.pdf,48,Henry County,F102,vote_type_breakdown,0,0,1,26,27,1,1,0,27,29
+data\precinct_pdfs\precinct_54.pdf,52,Henry County,F103,vote_type_breakdown,0,1,6,60,67,1,2,15,82,100
+data\precinct_pdfs\precinct_61.pdf,1,Kenton County,A101 COV 1,total_only,,,,,92,,,,,89
+data\precinct_pdfs\precinct_61.pdf,3,Kenton County,A102 COV 2,total_only,,,,,76,,,,,44
+data\precinct_pdfs\precinct_61.pdf,5,Kenton County,A103 COV 3,total_only,,,,,31,,,,,48
+data\precinct_pdfs\precinct_61.pdf,7,Kenton County,A104 COV 4,total_only,,,,,19,,,,,24
+data\precinct_pdfs\precinct_61.pdf,9,Kenton County,A105 COV 5,total_only,,,,,34,,,,,33
+data\precinct_pdfs\precinct_61.pdf,11,Kenton County,A106 COV 6,total_only,,,,,48,,,,,61
+data\precinct_pdfs\precinct_61.pdf,13,Kenton County,A107 COV 7,total_only,,,,,34,,,,,30
+data\precinct_pdfs\precinct_61.pdf,15,Kenton County,A108 COV 8,total_only,,,,,20,,,,,21
+data\precinct_pdfs\precinct_61.pdf,17,Kenton County,A109 COV 9,total_only,,,,,70,,,,,68
+data\precinct_pdfs\precinct_61.pdf,19,Kenton County,A110 COV 10,total_only,,,,,24,,,,,25
+data\precinct_pdfs\precinct_61.pdf,21,Kenton County,A111 COV 11,total_only,,,,,11,,,,,23
+data\precinct_pdfs\precinct_61.pdf,23,Kenton County,A112 COV 12,total_only,,,,,94,,,,,109
+data\precinct_pdfs\precinct_61.pdf,25,Kenton County,A113 COV 13,total_only,,,,,82,,,,,89
+data\precinct_pdfs\precinct_61.pdf,27,Kenton County,A114 COV 14,total_only,,,,,57,,,,,80
+data\precinct_pdfs\precinct_61.pdf,29,Kenton County,A116 FTM,total_only,,,,,613,,,,,567
+data\precinct_pdfs\precinct_61.pdf,31,Kenton County,A119 FTW,total_only,,,,,515,,,,,524
+data\precinct_pdfs\precinct_61.pdf,33,Kenton County,A121 KVL,total_only,,,,,6,,,,,4
+data\precinct_pdfs\precinct_61.pdf,35,Kenton County,A122 LUD,total_only,,,,,156,,,,,189
+data\precinct_pdfs\precinct_61.pdf,37,Kenton County,A123 PHL,total_only,,,,,224,,,,,185
+data\precinct_pdfs\precinct_61.pdf,39,Kenton County,A124 COV 3.5,total_only,,,,,0,,,,,0
+data\precinct_pdfs\precinct_61.pdf,41,Kenton County,A125 BRL,total_only,,,,,23,,,,,31
+data\precinct_pdfs\precinct_61.pdf,43,Kenton County,B201 BRACHT 1,total_only,,,,,107,,,,,104
+data\precinct_pdfs\precinct_61.pdf,45,Kenton County,B202 BRACHT 2,total_only,,,,,36,,,,,50
+data\precinct_pdfs\precinct_61.pdf,47,Kenton County,B203 COV 15,total_only,,,,,81,,,,,114
+data\precinct_pdfs\precinct_61.pdf,49,Kenton County,B204 COV 16,total_only,,,,,164,,,,,178
+data\precinct_pdfs\precinct_61.pdf,51,Kenton County,B205 COV 17,total_only,,,,,220,,,,,239
+data\precinct_pdfs\precinct_61.pdf,54,Kenton County,B206 DEC,total_only,,,,,59,,,,,108
+data\precinct_pdfs\precinct_61.pdf,57,Kenton County,B208 IND 1,total_only,,,,,312,,,,,399
+data\precinct_pdfs\precinct_61.pdf,60,Kenton County,B209 IND 2,total_only,,,,,167,,,,,227
+data\precinct_pdfs\precinct_61.pdf,63,Kenton County,B210 IND 3,total_only,,,,,99,,,,,116
+data\precinct_pdfs\precinct_61.pdf,66,Kenton County,B211 IND 4,total_only,,,,,200,,,,,181
+data\precinct_pdfs\precinct_61.pdf,69,Kenton County,B212 IND 5,total_only,,,,,59,,,,,58
+data\precinct_pdfs\precinct_61.pdf,72,Kenton County,B213 IND 6,total_only,,,,,143,,,,,161
+data\precinct_pdfs\precinct_61.pdf,75,Kenton County,B214 IND 6.5,total_only,,,,,1,,,,,6
+data\precinct_pdfs\precinct_61.pdf,78,Kenton County,B215 IND 7,total_only,,,,,183,,,,,242
+data\precinct_pdfs\precinct_61.pdf,81,Kenton County,B216 IND 8,total_only,,,,,289,,,,,252
+data\precinct_pdfs\precinct_61.pdf,84,Kenton County,B217 IND 9,total_only,,,,,161,,,,,236
+data\precinct_pdfs\precinct_61.pdf,86,Kenton County,B218 MVW,total_only,,,,,86,,,,,153
+data\precinct_pdfs\precinct_61.pdf,88,Kenton County,B219 NICH,total_only,,,,,420,,,,,502
+data\precinct_pdfs\precinct_61.pdf,90,Kenton County,B220 WT,total_only,,,,,283,,,,,430
+data\precinct_pdfs\precinct_61.pdf,92,Kenton County,B222 PINER,total_only,,,,,141,,,,,126
+data\precinct_pdfs\precinct_61.pdf,94,Kenton County,B223 TML,total_only,,,,,451,,,,,514
+data\precinct_pdfs\precinct_61.pdf,97,Kenton County,C301 CSP,total_only,,,,,291,,,,,278
+data\precinct_pdfs\precinct_61.pdf,99,Kenton County,C302 CRH 1,total_only,,,,,141,,,,,168
+data\precinct_pdfs\precinct_61.pdf,101,Kenton County,C303 CRH 2,total_only,,,,,82,,,,,138
+data\precinct_pdfs\precinct_61.pdf,103,Kenton County,C304 EDG 1,total_only,,,,,107,,,,,126
+data\precinct_pdfs\precinct_61.pdf,105,Kenton County,C305 EDG 1.5,total_only,,,,,1,,,,,0
+data\precinct_pdfs\precinct_61.pdf,107,Kenton County,C306 EDG 2,total_only,,,,,261,,,,,290
+data\precinct_pdfs\precinct_61.pdf,109,Kenton County,C307 EDG 3,total_only,,,,,295,,,,,380
+data\precinct_pdfs\precinct_61.pdf,111,Kenton County,C308 EDG 4,total_only,,,,,141,,,,,149
+data\precinct_pdfs\precinct_61.pdf,113,Kenton County,C309 ELS,total_only,,,,,209,,,,,260
+data\precinct_pdfs\precinct_61.pdf,115,Kenton County,C312 ERL 1,total_only,,,,,145,,,,,165
+data\precinct_pdfs\precinct_61.pdf,117,Kenton County,C322 ERL 1.5,total_only,,,,,4,,,,,5
+data\precinct_pdfs\precinct_61.pdf,119,Kenton County,C313 ERL 2,total_only,,,,,108,,,,,90
+data\precinct_pdfs\precinct_61.pdf,121,Kenton County,C314 ERL 3,total_only,,,,,101,,,,,126
+data\precinct_pdfs\precinct_61.pdf,123,Kenton County,C315 ERL 4,total_only,,,,,195,,,,,203
+data\precinct_pdfs\precinct_61.pdf,125,Kenton County,C316 ERL 5,total_only,,,,,211,,,,,281
+data\precinct_pdfs\precinct_61.pdf,127,Kenton County,C317 ERL 6,total_only,,,,,234,,,,,255
+data\precinct_pdfs\precinct_61.pdf,129,Kenton County,C318 LSP,total_only,,,,,238,,,,,230
+data\precinct_pdfs\precinct_61.pdf,131,Kenton County,C319 VHL,total_only,,,,,747,,,,,758
+data\precinct_pdfs\precinct_70.pdf,1,Lewis County,A100,vote_type_breakdown,11,3,15,353,382,5,2,34,322,363
+data\precinct_pdfs\precinct_70.pdf,4,Lewis County,B200,vote_type_breakdown,8,3,70,365,446,8,1,38,162,209
+data\precinct_pdfs\precinct_70.pdf,7,Lewis County,C300,vote_type_breakdown,24,5,53,438,520,15,0,15,222,252
+data\precinct_pdfs\precinct_70.pdf,10,Lewis County,D400,vote_type_breakdown,11,3,66,376,456,9,1,30,197,237
+data\precinct_pdfs\precinct_80.pdf,1,Mason County,A101,vote_type_breakdown,2,0,4,25,31,5,0,5,14,24
+data\precinct_pdfs\precinct_80.pdf,6,Mason County,A103,vote_type_breakdown,3,0,3,39,45,0,0,20,32,52
+data\precinct_pdfs\precinct_80.pdf,11,Mason County,A104,vote_type_breakdown,0,0,8,22,30,0,0,5,34,39
+data\precinct_pdfs\precinct_80.pdf,16,Mason County,A105,vote_type_breakdown,1,0,11,66,78,0,0,17,35,52
+data\precinct_pdfs\precinct_80.pdf,21,Mason County,A106,vote_type_breakdown,1,0,2,18,21,3,0,4,21,28
+data\precinct_pdfs\precinct_80.pdf,25,Mason County,B102,vote_type_breakdown,0,0,4,29,33,0,0,3,17,20
+data\precinct_pdfs\precinct_80.pdf,30,Mason County,B104,vote_type_breakdown,0,0,2,77,79,0,0,2,52,54
+data\precinct_pdfs\precinct_80.pdf,35,Mason County,B106,vote_type_breakdown,0,0,11,107,118,0,0,7,113,120
+data\precinct_pdfs\precinct_80.pdf,40,Mason County,B107,vote_type_breakdown,6,0,19,106,131,3,0,19,92,114
+data\precinct_pdfs\precinct_80.pdf,46,Mason County,B108,vote_type_breakdown,6,0,23,81,110,9,0,30,95,134
+data\precinct_pdfs\precinct_80.pdf,52,Mason County,C102,vote_type_breakdown,13,0,23,106,142,5,0,24,121,150
+data\precinct_pdfs\precinct_80.pdf,57,Mason County,C103,vote_type_breakdown,0,0,9,62,71,2,0,10,58,70
+data\precinct_pdfs\precinct_80.pdf,61,Mason County,C104,vote_type_breakdown,0,0,11,44,55,0,0,10,39,49
+data\precinct_pdfs\precinct_80.pdf,65,Mason County,C105,vote_type_breakdown,1,0,4,85,90,1,0,12,82,95
+data\precinct_pdfs\precinct_92.pdf,21,Nelson County,B101,vote_type_breakdown,2,3,22,136,163,3,5,48,177,233
+data\precinct_pdfs\precinct_92.pdf,32,Nelson County,B103,vote_type_breakdown,0,3,22,102,127,2,1,49,176,228
+data\precinct_pdfs\precinct_92.pdf,37,Nelson County,B104,vote_type_breakdown,3,2,33,98,136,6,2,25,157,190
+data\precinct_pdfs\precinct_92.pdf,72,Nelson County,C106,vote_type_breakdown,0,0,12,43,55,0,3,22,64,89
+data\precinct_pdfs\precinct_92.pdf,82,Nelson County,D102,vote_type_breakdown,0,2,17,79,98,6,0,23,119,148
+data\precinct_pdfs\precinct_92.pdf,87,Nelson County,D103,vote_type_breakdown,3,0,8,99,110,4,7,16,162,189
+data\precinct_pdfs\precinct_92.pdf,92,Nelson County,D104,vote_type_breakdown,1,1,12,82,96,0,4,26,128,158
+data\precinct_pdfs\precinct_92.pdf,97,Nelson County,D105,vote_type_breakdown,1,1,16,73,91,1,3,33,141,178
+data\precinct_pdfs\precinct_92.pdf,102,Nelson County,E101,vote_type_breakdown,0,0,9,54,63,4,0,7,77,88
+data\precinct_pdfs\precinct_92.pdf,107,Nelson County,E102,vote_type_breakdown,0,1,14,72,87,0,1,22,132,155
+data\precinct_pdfs\precinct_92.pdf,112,Nelson County,E103,vote_type_breakdown,1,0,5,75,81,3,2,6,140,151
+data\precinct_pdfs\precinct_92.pdf,117,Nelson County,E104,vote_type_breakdown,0,1,10,62,73,2,0,16,108,126
+data\precinct_pdfs\precinct_92.pdf,122,Nelson County,E105,vote_type_breakdown,0,1,5,37,43,0,0,5,40,45
+data\precinct_pdfs\precinct_95.pdf,1,Oldham County,A101,vote_type_breakdown,12,0,17,184,213,7,0,23,195,225
+data\precinct_pdfs\precinct_95.pdf,5,Oldham County,A103,vote_type_breakdown,8,0,46,207,261,8,0,49,303,360
+data\precinct_pdfs\precinct_95.pdf,9,Oldham County,A104,vote_type_breakdown,6,0,25,166,197,1,0,23,156,180
+data\precinct_pdfs\precinct_95.pdf,13,Oldham County,B101,vote_type_breakdown,0,0,15,51,66,3,0,19,72,94
+data\precinct_pdfs\precinct_95.pdf,17,Oldham County,B102,vote_type_breakdown,4,0,16,77,97,6,0,25,136,167
+data\precinct_pdfs\precinct_95.pdf,21,Oldham County,B104,vote_type_breakdown,0,0,11,29,40,0,0,20,21,41
+data\precinct_pdfs\precinct_95.pdf,25,Oldham County,B105,vote_type_breakdown,4,0,120,194,318,14,0,121,200,335
+data\precinct_pdfs\precinct_95.pdf,29,Oldham County,B106,vote_type_breakdown,1,0,12,52,65,0,0,12,71,83
+data\precinct_pdfs\precinct_95.pdf,33,Oldham County,C101,vote_type_breakdown,3,0,51,111,165,3,0,43,99,145
+data\precinct_pdfs\precinct_95.pdf,37,Oldham County,C102,vote_type_breakdown,6,0,81,131,218,8,0,76,149,233
+data\precinct_pdfs\precinct_95.pdf,42,Oldham County,C103,vote_type_breakdown,4,0,38,91,133,6,0,55,87,148
+data\precinct_pdfs\precinct_95.pdf,47,Oldham County,C105,vote_type_breakdown,0,0,34,120,154,0,0,15,164,179
+data\precinct_pdfs\precinct_95.pdf,51,Oldham County,C106,vote_type_breakdown,0,0,22,51,73,1,0,21,51,73
+data\precinct_pdfs\precinct_95.pdf,56,Oldham County,D101,vote_type_breakdown,2,0,55,148,205,5,0,48,155,208
+data\precinct_pdfs\precinct_95.pdf,60,Oldham County,D103,vote_type_breakdown,6,0,64,171,241,9,0,86,201,296
+data\precinct_pdfs\precinct_95.pdf,64,Oldham County,D104,vote_type_breakdown,4,0,28,102,134,7,0,31,84,122
+data\precinct_pdfs\precinct_95.pdf,67,Oldham County,D106,vote_type_breakdown,6,0,34,109,149,4,0,52,94,150
+data\precinct_pdfs\precinct_95.pdf,71,Oldham County,E101,vote_type_breakdown,1,0,41,132,174,2,0,60,145,207
+data\precinct_pdfs\precinct_95.pdf,75,Oldham County,E102,vote_type_breakdown,1,0,63,161,225,2,0,72,187,261
+data\precinct_pdfs\precinct_95.pdf,79,Oldham County,E103,vote_type_breakdown,0,0,23,87,110,2,0,22,89,113
+data\precinct_pdfs\precinct_95.pdf,83,Oldham County,E104,vote_type_breakdown,0,0,6,49,55,1,0,6,35,42
+data\precinct_pdfs\precinct_95.pdf,87,Oldham County,E105,vote_type_breakdown,5,0,55,158,218,7,0,62,159,228
+data\precinct_pdfs\precinct_95.pdf,91,Oldham County,E106,vote_type_breakdown,4,0,7,25,36,1,0,10,26,37
+data\precinct_pdfs\precinct_95.pdf,95,Oldham County,F101,vote_type_breakdown,3,0,27,55,85,2,0,22,62,86
+data\precinct_pdfs\precinct_95.pdf,100,Oldham County,F102,vote_type_breakdown,9,0,44,98,151,3,0,49,122,174
+data\precinct_pdfs\precinct_95.pdf,104,Oldham County,F103,vote_type_breakdown,1,0,45,94,140,4,0,44,106,154
+data\precinct_pdfs\precinct_95.pdf,108,Oldham County,F104,vote_type_breakdown,2,0,18,62,82,2,0,32,93,127
+data\precinct_pdfs\precinct_95.pdf,112,Oldham County,F105,vote_type_breakdown,5,0,30,116,151,6,0,23,123,152
+data\precinct_pdfs\precinct_95.pdf,117,Oldham County,F106,vote_type_breakdown,2,0,14,38,54,2,0,14,26,42
+data\precinct_pdfs\precinct_95.pdf,121,Oldham County,G101,vote_type_breakdown,3,0,33,146,182,6,0,59,178,243
+data\precinct_pdfs\precinct_95.pdf,125,Oldham County,G102,vote_type_breakdown,1,0,79,137,217,11,0,73,162,246
+data\precinct_pdfs\precinct_95.pdf,129,Oldham County,G103,vote_type_breakdown,2,0,30,73,105,3,0,21,75,99
+data\precinct_pdfs\precinct_95.pdf,133,Oldham County,G105,vote_type_breakdown,0,0,19,67,86,1,0,33,69,103
+data\precinct_pdfs\precinct_95.pdf,137,Oldham County,H101,vote_type_breakdown,8,0,65,130,203,6,0,72,143,221
+data\precinct_pdfs\precinct_95.pdf,140,Oldham County,H103,vote_type_breakdown,2,0,46,129,177,5,0,27,122,154
+data\precinct_pdfs\precinct_95.pdf,143,Oldham County,H104,vote_type_breakdown,1,0,15,82,98,4,0,32,57,93
+data\precinct_pdfs\precinct_95.pdf,146,Oldham County,H105,vote_type_breakdown,10,0,63,108,181,5,0,53,114,172
+data\precinct_pdfs\precinct_95.pdf,149,Oldham County,H106,vote_type_breakdown,2,0,0,9,11,1,0,1,9,11
+data\precinct_pdfs\precinct_96.pdf,1,Owen County,A101,vote_type_breakdown,1,0,1,32,34,0,0,10,47,57
+data\precinct_pdfs\precinct_96.pdf,4,Owen County,A103,vote_type_breakdown,0,0,7,73,80,0,0,11,90,101
+data\precinct_pdfs\precinct_96.pdf,7,Owen County,A104,vote_type_breakdown,0,1,4,26,31,0,2,3,42,47
+data\precinct_pdfs\precinct_96.pdf,10,Owen County,A105,vote_type_breakdown,0,0,24,85,109,2,2,23,116,143
+data\precinct_pdfs\precinct_96.pdf,13,Owen County,B102,vote_type_breakdown,2,1,8,129,140,2,0,29,158,189
+data\precinct_pdfs\precinct_96.pdf,16,Owen County,B103,vote_type_breakdown,1,0,13,88,102,2,0,9,78,89
+data\precinct_pdfs\precinct_96.pdf,19,Owen County,C101,vote_type_breakdown,0,1,5,65,71,0,0,4,99,103
+data\precinct_pdfs\precinct_96.pdf,22,Owen County,C103,vote_type_breakdown,0,0,5,48,53,3,0,3,70,76
+data\precinct_pdfs\precinct_96.pdf,25,Owen County,C104,vote_type_breakdown,0,0,6,57,63,1,0,11,89,101
+data\precinct_pdfs\precinct_96.pdf,28,Owen County,D101,vote_type_breakdown,2,1,5,75,83,0,2,3,99,104
+data\precinct_pdfs\precinct_96.pdf,31,Owen County,D102,vote_type_breakdown,0,0,10,62,72,2,1,17,65,85
+data\precinct_pdfs\precinct_96.pdf,34,Owen County,D103,vote_type_breakdown,1,0,4,35,40,1,0,15,44,60
+data\precinct_pdfs\precinct_98.pdf,1,Pendleton County,A101,vote_type_breakdown,2,0,17,37,56,8,0,4,59,71
+data\precinct_pdfs\precinct_98.pdf,6,Pendleton County,A102,vote_type_breakdown,6,2,3,72,83,8,0,15,109,132
+data\precinct_pdfs\precinct_98.pdf,11,Pendleton County,A103,vote_type_breakdown,1,0,8,59,68,4,0,16,87,107
+data\precinct_pdfs\precinct_98.pdf,16,Pendleton County,B101,vote_type_breakdown,2,0,19,122,143,6,7,21,144,178
+data\precinct_pdfs\precinct_98.pdf,20,Pendleton County,B102,vote_type_breakdown,1,1,12,112,126,3,4,14,138,159
+data\precinct_pdfs\precinct_98.pdf,24,Pendleton County,B103,vote_type_breakdown,1,1,22,66,90,2,3,18,120,143
+data\precinct_pdfs\precinct_98.pdf,28,Pendleton County,C101,vote_type_breakdown,6,0,17,83,106,2,2,12,90,106
+data\precinct_pdfs\precinct_98.pdf,32,Pendleton County,C102,vote_type_breakdown,3,4,16,101,124,2,9,22,110,143
+data\precinct_pdfs\precinct_98.pdf,36,Pendleton County,C103,vote_type_breakdown,0,0,6,38,44,4,1,14,79,98
+data\precinct_pdfs\precinct_98.pdf,40,Pendleton County,D101,vote_type_breakdown,2,6,29,98,135,5,5,39,122,171
+data\precinct_pdfs\precinct_98.pdf,44,Pendleton County,D102,vote_type_breakdown,0,0,15,65,80,4,2,21,92,119
+data\precinct_pdfs\precinct_98.pdf,48,Pendleton County,D103,vote_type_breakdown,3,2,8,66,79,6,0,12,98,116
+data\precinct_pdfs\precinct_103.pdf,1,Robertson County,A101,vote_type_breakdown,0,0,3,16,19,0,0,6,16,22
+data\precinct_pdfs\precinct_103.pdf,5,Robertson County,B101,vote_type_breakdown,0,0,0,11,11,2,0,1,33,36
+data\precinct_pdfs\precinct_103.pdf,9,Robertson County,C101,vote_type_breakdown,0,0,3,8,11,0,0,5,23,28
+data\precinct_pdfs\precinct_103.pdf,13,Robertson County,D101,vote_type_breakdown,0,0,2,24,26,1,0,4,15,20
+data\precinct_pdfs\precinct_103.pdf,17,Robertson County,E101,vote_type_breakdown,1,0,3,20,24,0,0,2,29,31
+data\precinct_pdfs\precinct_108.pdf,1,Shelby County,A101,vote_type_breakdown,4,0,18,127,149,2,0,25,219,246
+data\precinct_pdfs\precinct_108.pdf,4,Shelby County,A102,vote_type_breakdown,1,0,11,52,64,2,0,5,46,53
+data\precinct_pdfs\precinct_108.pdf,7,Shelby County,A103,vote_type_breakdown,4,2,10,66,82,3,0,9,92,104
+data\precinct_pdfs\precinct_108.pdf,10,Shelby County,A104,vote_type_breakdown,2,2,8,98,110,0,4,10,95,109
+data\precinct_pdfs\precinct_108.pdf,13,Shelby County,A105,vote_type_breakdown,1,0,12,113,126,0,2,18,159,179
+data\precinct_pdfs\precinct_108.pdf,16,Shelby County,B101,vote_type_breakdown,0,0,12,115,127,3,0,21,170,194
+data\precinct_pdfs\precinct_108.pdf,20,Shelby County,B102,vote_type_breakdown,2,0,6,110,118,4,2,11,129,146
+data\precinct_pdfs\precinct_108.pdf,24,Shelby County,B103,vote_type_breakdown,0,1,10,55,66,0,0,14,60,74
+data\precinct_pdfs\precinct_108.pdf,28,Shelby County,B104,vote_type_breakdown,1,2,19,104,126,7,1,37,141,186
+data\precinct_pdfs\precinct_108.pdf,32,Shelby County,B105,vote_type_breakdown,0,1,11,93,105,2,0,22,131,155
+data\precinct_pdfs\precinct_108.pdf,36,Shelby County,C101,vote_type_breakdown,0,3,19,118,140,1,1,31,132,165
+data\precinct_pdfs\precinct_108.pdf,40,Shelby County,C102,vote_type_breakdown,3,2,5,64,74,4,1,2,97,104
+data\precinct_pdfs\precinct_108.pdf,44,Shelby County,C103,vote_type_breakdown,0,0,7,63,70,1,1,5,73,80
+data\precinct_pdfs\precinct_108.pdf,48,Shelby County,C104,vote_type_breakdown,2,0,18,120,140,6,2,52,140,200
+data\precinct_pdfs\precinct_108.pdf,52,Shelby County,C105,vote_type_breakdown,1,0,9,96,106,1,2,9,77,89
+data\precinct_pdfs\precinct_108.pdf,56,Shelby County,D101,vote_type_breakdown,0,0,10,117,127,3,0,10,140,153
+data\precinct_pdfs\precinct_108.pdf,60,Shelby County,D102,vote_type_breakdown,3,1,13,92,109,6,1,20,189,216
+data\precinct_pdfs\precinct_108.pdf,64,Shelby County,D103,vote_type_breakdown,2,0,10,77,89,3,1,24,92,120
+data\precinct_pdfs\precinct_108.pdf,68,Shelby County,D104,vote_type_breakdown,0,0,6,112,118,1,0,6,117,124
+data\precinct_pdfs\precinct_108.pdf,72,Shelby County,D105,vote_type_breakdown,0,1,16,85,102,0,3,21,109,133
+data\precinct_pdfs\precinct_108.pdf,76,Shelby County,E101,vote_type_breakdown,4,2,23,116,145,4,5,25,124,158
+data\precinct_pdfs\precinct_108.pdf,80,Shelby County,E102,vote_type_breakdown,0,0,11,106,117,2,3,18,137,160
+data\precinct_pdfs\precinct_108.pdf,84,Shelby County,E103,vote_type_breakdown,0,0,22,118,140,6,5,39,130,180
+data\precinct_pdfs\precinct_108.pdf,88,Shelby County,E104,vote_type_breakdown,0,1,2,65,68,2,0,1,97,100
+data\precinct_pdfs\precinct_108.pdf,92,Shelby County,E105,vote_type_breakdown,0,0,3,26,29,0,0,2,26,28
+data\precinct_pdfs\precinct_108.pdf,96,Shelby County,F101,vote_type_breakdown,0,2,14,148,164,7,4,13,202,226
+data\precinct_pdfs\precinct_108.pdf,99,Shelby County,F102,vote_type_breakdown,1,0,16,105,122,6,2,12,216,236
+data\precinct_pdfs\precinct_108.pdf,102,Shelby County,F103,vote_type_breakdown,0,0,3,66,69,2,1,1,68,72
+data\precinct_pdfs\precinct_108.pdf,105,Shelby County,F104,vote_type_breakdown,0,2,3,41,46,1,0,7,87,95
+data\precinct_pdfs\precinct_108.pdf,109,Shelby County,F105,vote_type_breakdown,0,0,1,114,115,2,4,9,215,230
+data\precinct_pdfs\precinct_108.pdf,113,Shelby County,G101,vote_type_breakdown,0,2,15,38,55,1,0,9,67,77
+data\precinct_pdfs\precinct_108.pdf,116,Shelby County,G102,vote_type_breakdown,0,0,7,36,43,0,1,7,53,61
+data\precinct_pdfs\precinct_108.pdf,119,Shelby County,G103,vote_type_breakdown,0,0,10,82,92,5,1,14,123,143
+data\precinct_pdfs\precinct_108.pdf,122,Shelby County,G104,vote_type_breakdown,0,0,5,29,34,2,0,1,49,52
+data\precinct_pdfs\precinct_110.pdf,1,Spencer County,A101,vote_type_breakdown,3,2,69,178,252,5,4,139,244,392
+data\precinct_pdfs\precinct_110.pdf,5,Spencer County,B101,vote_type_breakdown,2,2,24,62,90,2,0,47,105,154
+data\precinct_pdfs\precinct_110.pdf,9,Spencer County,B102,vote_type_breakdown,3,0,40,160,203,4,4,79,225,312
+data\precinct_pdfs\precinct_110.pdf,13,Spencer County,C101,vote_type_breakdown,4,1,57,131,193,7,1,92,204,304
+data\precinct_pdfs\precinct_110.pdf,17,Spencer County,C102,vote_type_breakdown,2,1,33,79,115,5,13,58,172,248
+data\precinct_pdfs\precinct_110.pdf,21,Spencer County,D101,vote_type_breakdown,0,2,42,65,109,1,4,72,137,214
+data\precinct_pdfs\precinct_110.pdf,25,Spencer County,D102,vote_type_breakdown,0,0,38,72,110,3,2,67,139,211
+data\precinct_pdfs\precinct_110.pdf,29,Spencer County,E101,vote_type_breakdown,1,0,42,131,174,3,5,79,189,276
+data\precinct_pdfs\precinct_110.pdf,33,Spencer County,E102,vote_type_breakdown,0,0,5,61,66,0,0,19,121,140
+data\precinct_pdfs\precinct_114.pdf,1,Trimble County,A101,vote_type_breakdown,0,0,3,27,30,1,0,6,28,35
+data\precinct_pdfs\precinct_114.pdf,6,Trimble County,A102,vote_type_breakdown,0,0,2,27,29,2,2,6,40,50
+data\precinct_pdfs\precinct_114.pdf,11,Trimble County,A103,vote_type_breakdown,2,0,6,50,58,1,0,20,67,88
+data\precinct_pdfs\precinct_114.pdf,16,Trimble County,B101,vote_type_breakdown,0,0,11,48,59,1,5,11,58,75
+data\precinct_pdfs\precinct_114.pdf,22,Trimble County,B103,vote_type_breakdown,0,0,10,56,66,0,1,32,95,128
+data\precinct_pdfs\precinct_114.pdf,28,Trimble County,B104,vote_type_breakdown,0,1,11,14,26,0,0,7,37,44
+data\precinct_pdfs\precinct_114.pdf,34,Trimble County,C101,vote_type_breakdown,0,0,1,30,31,0,0,4,26,30
+data\precinct_pdfs\precinct_114.pdf,40,Trimble County,C103,vote_type_breakdown,0,1,3,23,27,2,0,4,54,60
+data\precinct_pdfs\precinct_114.pdf,46,Trimble County,C104,vote_type_breakdown,1,4,6,52,63,0,5,5,71,81
+data\precinct_pdfs\precinct_114.pdf,52,Trimble County,D101,vote_type_breakdown,1,3,5,27,36,0,3,18,36,57
+data\precinct_pdfs\precinct_114.pdf,57,Trimble County,D102,vote_type_breakdown,1,0,7,34,42,0,0,9,57,66
+data\precinct_pdfs\precinct_114.pdf,62,Trimble County,D103,vote_type_breakdown,0,1,14,39,54,0,0,14,41,55
