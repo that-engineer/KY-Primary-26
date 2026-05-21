@@ -1,7 +1,7 @@
-# KYvoting
+# KY-Primary-26
 
-Download Kentucky precinct voting result PDFs from the numbered live-results
-endpoint.
+Short data analysis of Kentucky's 4th congressional district Republican
+primary, including precinct result PDFs, turnout scraping, parsing, and plots.
 
 ## Setup
 
